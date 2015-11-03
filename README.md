@@ -1,6 +1,6 @@
 # ASPX TORO
 
-A torified bespoke webscrapping for SSL/TLS ASPX websites
+A Python script for torified bespoke webscrapping on SSL/TLS ASPX websites
 
 Ask me here any questions
 

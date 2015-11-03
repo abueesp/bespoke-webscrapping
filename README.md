@@ -2,6 +2,6 @@
 
 A torified bespoke webscrapping for SSL/TLS ASPX websites
 
-Any questions, ask me here
+Ask me here any questions
 
 Enjoy and be good

@@ -2,6 +2,6 @@
 
 A Python script for torified bespoke webscrapping on SSL/TLS ASPX websites
 
-Ask me here any questions
+Ask me any question on pv
 
-Enjoy and be good
+Be good and enjoy!

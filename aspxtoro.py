@@ -110,8 +110,6 @@ for x in range (0, 22131): #range of ids
 			print strm
 	if x % 90 == 0:
 		time.sleep(1.5)
-if error:
-	
 f.close()
 #except:
  #   pass
